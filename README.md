@@ -26,6 +26,25 @@ pixel-perfect, but gives you a good guideline when designing your header.
 
 ![img](https://drive.google.com/uc?export=view&id=1_FHJ8wP0qb7kEQWHCqZzgbpCHPv2xf_X)
 
+The area not matted by the "USUALLY HIDDEN" bars can be considered the "focus area" of
+your header. When Self Service launches with its default size, the image content within
+this focus area should be visible.
+
+Consider this sweet image of Ryu blasting a hadoken at Ken. We drop it in the template
+and make sure the bottom of the hadoken blast and the top of Ken's head are visible
+within the focus area.
+
+![img](https://drive.google.com/uc?export=view&id=1Qz35aqlXpl5jWn0MEv-sUH-sC8UgLRCi)
+
+When Self Service launches, we should see this reflected in the header area.
+
+![img](https://drive.google.com/uc?export=view&id=1yluEt3eZod4Zb0JVzDWSdfExlbs1zALE)
+
+If we resize Self Service to scrunch it up a bit, notice some of the content from the
+"usually hidden" area of the template image comes into view.
+
+![img](https://drive.google.com/uc?export=view&id=119uegHuZdB9S19hPFvPvt7nOr9rSb8Th)
+
 ## Configuring Self Service branding
 
 Branding Self Service is available in Jamf Pro 10.0.0 and above.
