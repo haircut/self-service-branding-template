@@ -1,3 +1,7 @@
+> # This project is deprecated.
+> **2021-02-20:**
+> With the release of Jamf Pro 10.27.0 and visual updates to the Self Service app, branding options have significantly changed. The "header" no longer serves as a background behind the branding icon and text, so this project is not needed.
+
 # self-service-branding-template
 Templates for creating your Jamf Self Service branding image.
 
